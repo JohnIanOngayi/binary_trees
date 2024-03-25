@@ -27,6 +27,9 @@ typedef struct binary_tree_s binary_tree_t;
 /*print function*/
 void binary_tree_print(const binary_tree_t *tree);
 
+/*free function*/
+void _free(void *ptr);
+
 /*Binary Search Tree*/
 typedef struct binary_tree_s bst_t;
 
