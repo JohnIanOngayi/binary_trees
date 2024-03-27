@@ -39,6 +39,14 @@ typedef struct binary_tree_s avl_t;
 /*Max Binary Heap*/
 typedef struct binary_tree_s heap_t;
 
+/*checks if a binary tree is complete*/
+typedef struct levelorder_queue_s
+{
+    struct binary_tree_s *node;
+    struct levelorder_queue_s *next;
+} levelorder_queue_t;
+
+
 /*mandatories*/
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
