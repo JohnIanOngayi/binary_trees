@@ -22,12 +22,12 @@ Innit
 - [x] Task 18
 - [x] Task 19
 - [ ] Task 20
-- [ ] Task 21
+- [x] Task 21
 - [x] Task 22
 - [x] Task 23
 - [x] Task 24
 - [x] Task 25
-- [ ] Task 26
+- [x] Task 26
 - [x] Task 27
 - [x] Task 28
 - [x] Task 29
