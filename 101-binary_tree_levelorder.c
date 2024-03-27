@@ -10,6 +10,8 @@ void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int))
 {
 	ll *children = NULL;
 
+	if (!tree || !func)
+		return;
 	func(tree->n);
 	children = get_children(children, tree);
 	levels_rec(children, func);
