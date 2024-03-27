@@ -17,26 +17,26 @@ Innit
 - [x] Task 13
 - [x] Task 14
 - [x] Task 15
-- [ ] Task 16
+- [x] Task 16
 - [x] Task 17
 - [x] Task 18
-- [ ] Task 19
+- [x] Task 19
 - [ ] Task 20
 - [ ] Task 21
-- [ ] Task 22
-- [ ] Task 23
-- [ ] Task 24
-- [ ] Task 25
+- [x] Task 22
+- [x] Task 23
+- [x] Task 24
+- [x] Task 25
 - [ ] Task 26
-- [ ] Task 27
-- [ ] Task 28
-- [ ] Task 29
-- [ ] Task 30
+- [x] Task 27
+- [x] Task 28
+- [x] Task 29
+- [x] Task 30
 - [ ] Task 31
 - [ ] Task 32
 - [ ] Task 33
 - [ ] Task 34
-- [ ] Task 35
+- [x] Task 35
 - [ ] Task 36
 - [ ] Task 37
 - [ ] Task 38
